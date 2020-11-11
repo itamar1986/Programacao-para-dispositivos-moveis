@@ -1,7 +1,7 @@
 <h1>Primeiro projeto: Calculando o IMC</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Java&message=script&color=yellow&style=for-the-badge&logo=Java"/>
+  <img src="https://img.shields.io/static/v1?label=Java&message=java&color=yellow&style=for-the-badge&logo=Java"/>
 </p>
 
 > Status do Projeto: :heavy_check_mark: (concluido)
