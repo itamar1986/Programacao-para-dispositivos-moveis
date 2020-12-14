@@ -22,8 +22,8 @@ dados sejam armazenados e recuperados. Essa ação de armazenamento e recuperaç
 de dados é chamada de persistência de dados. A persistência de dados pode ocorrer
 com o armazenamento de poucos dados para provimento de configurações do sistema
 ou com o armazenamento de grandes quantidades de dados, quando trabalhamos com
-tabelas em bancos de dados. Conhecer formas diferentes de armazenamento e recupe-
-ração de dados permite que tenhamos sistemas mais robustos e confiáveis, inclusive
+tabelas em bancos de dados. Conhecer formas diferentes de armazenamento e recuperação 
+de dados permite que tenhamos sistemas mais robustos e confiáveis, inclusive
 sendo possível o uso de mais de uma forma de persistência no desenvolvimento de um
 mesmo projeto.
 </p>
